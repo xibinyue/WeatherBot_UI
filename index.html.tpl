@@ -790,11 +790,7 @@
     <p>见页面右下方的聊天widget <img
             src="chat_button.png"
             alt="chat_button" style="width:40px;height:40px;">，点击即可使用</p>
-    <h2 class="mume-header" id="%E4%BD%9C%E8%80%85">作者</h2>
 
-    <p>Xiaoquan Kong @ <a href="https://github.com/howl-anderson">https://github.com/howl-anderson</a>
-    </p>
-    <h2 class="mume-header" id="copyrights">Copyrights</h2>
 
     <div>Robot icon in web-chat interface made by <a
             href="https://www.flaticon.com/authors/good-ware" title="Robotic">Robotic</a>
